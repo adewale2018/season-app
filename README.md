@@ -5,7 +5,7 @@
 ---
 
 ### View live here: 
-  - https://saheed-shittu.netlify.com
+  - https://season-app.netlify.com
 ---
 
 ### Love To Learn About React? Check the docs
